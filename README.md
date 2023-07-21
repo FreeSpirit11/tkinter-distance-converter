@@ -1,2 +1,23 @@
-# tkinter-distance-converter
-Tkinter Distance Converter is a user-friendly GUI app for converting kilometers to miles and vice versa. 
+# Tkinter Distance Converter
+
+Tkinter Distance Converter is a simple graphical user interface (GUI) application built using Tkinter in Python. It provides an easy way to convert distances between kilometers and miles.
+
+## Features
+- Convert kilometers to miles.
+- Convert miles to kilometers.
+
+## Requirements
+- Python 3.x
+
+## How to Use
+1. Clone the repository: `git clone https://github.com/FreeSpirit11/tkinter-distance-converter.git`
+2. Run the script: `python main.py`
+3. Enter the distance in the entry field.
+4. Click the "Calculate" button to see the converted result.
+5. The converted distance will be displayed in the "is equal to" section.
+
+## Acknowledgement
+Special thanks to Angela Yu for her inspiring #100DaysofCode challenge, which motivated and guided me throughout this project.
+
+Enjoy the Tkinter Distance Converter for your daily distance conversion needs!
+
